@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- 👋 Hi, I’m @lqf77
+- 👋 Hi, I’m liqifei
 
 Getting started
 ======
